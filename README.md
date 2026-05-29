@@ -1,25 +1,7 @@
 # 🚴 Customer & Product Sales Analysis (2010–2013)
-
-## 📌 Project Overview
-
-This project analyzes customer purchasing behavior, product performance, and business sales trends between 2010 and 2013 using SQL and Power BI.
-
-The project focuses on transforming raw transactional sales data into actionable business insights through:
-
-* SQL-based analysis
-* Exploratory Data Analysis (EDA)
-* Advanced analytics
-* Interactive Power BI dashboards
-
-The analysis helps identify:
-
-* High-value customers
-* Revenue-driving products
-* Customer segmentation trends
-* Business growth patterns
-* Product performance changes over time
-
----
+<p>
+ This repository features an end-to-end data analytics project combining powerful SQL query techniques with interactive Power BI dashboards. It provides actionable business intelligence on customer behavior, product performance, and overall revenue growth drivers between 2010 and 2013.
+</p>
 
 # 📑 Table of Contents
 
@@ -41,6 +23,27 @@ The analysis helps identify:
 * [🚀 Future Improvements](#-future-improvements)
 * [✅ Conclusion](#-conclusion)
 * [👨‍💻 Author](#-author)
+
+---
+
+## 📌 Project Overview
+
+This project analyzes customer purchasing behavior, product performance, and business sales trends between 2010 and 2013 using SQL and Power BI.
+
+The project focuses on transforming raw transactional sales data into actionable business insights through:
+
+* SQL-based analysis
+* Exploratory Data Analysis (EDA)
+* Advanced analytics
+* Interactive Power BI dashboards
+
+The analysis helps identify:
+
+* High-value customers
+* Revenue-driving products
+* Customer segmentation trends
+* Business growth patterns
+* Product performance changes over time
 
 ---
 
@@ -206,7 +209,7 @@ The Power BI dashboard provides interactive business insights including:
 
 ## 📌 Customer Analysis Dashboard
 
-[](./Customer-Behaviour-Analysis-Dashboard.png)
+[View Attached File](./Customer-Behaviour-Analysis-Dashboard.png)
 
 This dashboard highlights:
 
@@ -218,7 +221,7 @@ This dashboard highlights:
 
 ## 📌 Product Analysis Dashboard
 
-[](./Product-Performance-Analysis-Dashboard.png)
+[View Attached File](./Product-Performance-Analysis-Dashboard.png)
 This dashboard highlights:
 
 * Product Performance
@@ -302,15 +305,16 @@ sql-powerbi-customer-product-sales-analysis/
 
 # 🧾 SQL File Description
 
-| SQL File                                                                 | Description                                  |
-| ---------------------------------                                      - | -------------------------------------------- |
-| [01_DATASETS_AND_TABLES_INSERTION](01_DATASETS_AND_TABLES_INSERTION.sql) | Dataset creation and table insertion scripts |
-| [02_ALL_KEY_METRICS_OF_THE_BUSINESS](02_ALL_KEY_METRICS_OF_THE_BUSINESS) | Business KPI calculations                    |
-| [03_EXPLORATORY_DATA_ANALYSIS_EDA](03_EXPLORATORY_DATA_ANALYSIS_EDA)     | Exploratory Data Analysis queries            | 
-| [04_ADVANCED_DATA_ANALYTICS](04_ADVANCED_DATA_ANALYTICS)                 | Advanced analytical business queries         |
-| [05_CUSTOMER_REPORT](05_CUSTOMER_REPORT)                                 | Customer-focused reporting analysis          |
-| [06_PRODUCT_REPORT](06_PRODUCT_REPORT)                                   | Product-focused reporting analysis           |
+## 📄 SQL File Description
 
+| SQL File | Description |
+| :--- | :--- |
+| [01_DATASETS_AND_TABLE_INSERTION](./01_DATASETS_AND_TABLES_INSERTION.sql) | Dataset creation and table insertion scripts |
+| [02_ALL_KEY_METRICS_OF_THE_BUSINESS](./02_ALL_KEY_METRICS_OF_THE_BUSINESS.sql) | Business KPI calculations |
+| [03_EXPLORATORY_DATA_ANALYSIS_EDA](./03_EXPLORATORY_DATA_ANALYSIS_EDA.sql) | Exploratory Data Analysis queries |
+| [04_ADVANCED_DATA_ANALYTICS](./04_ADVANCED_DATA_ANALYTICS.sql) | Advanced analytical business queries |
+| [05_CUSTOMER_REPORT](./05_CUSTOMER_REPORT.sql) | Customer-focused reporting analysis |
+| [06_PRODUCT_REPORT](./06_PRODUCT_REPORT.sql) | Product-focused reporting analysis |
 
 ---
 
