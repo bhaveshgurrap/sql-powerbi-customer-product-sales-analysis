@@ -281,24 +281,21 @@ The PDF report contains:
 
 ```bash
 sql-powerbi-customer-product-sales-analysis/
-│
-├── README.md
-│
-├── SQL Files/
+├── dashboards/
+│   ├── Customer-Behaviour-Analysis-Dashboard.png
+│   └── Product-Performance-Analysis-Dashboard.png
+├── pdf file/
+│   └── Customer & Product Sales Analysis Report (2010-2013).pdf
+├── powerbi/
+│   └── Customer_Product_report.pbix
+├── sql files/
 │   ├── 01_DATASETS_AND_TABLES_INSERTION.sql
 │   ├── 02_ALL_KEY_METRICS_OF_THE_BUSINESS.sql
 │   ├── 03_EXPLORATORY_DATA_ANALYSIS_EDA.sql
 │   ├── 04_ADVANCED_DATA_ANALYTICS.sql
 │   ├── 05_CUSTOMER_REPORT.sql
 │   └── 06_PRODUCT_REPORT.sql
-│
-├── PDF File/
-│   └── Customer & Product Sales Analysis Report (2010–2013).pdf
-│
-├── Dashboards/
-│   └── PowerBI Dashboard.pbix
-│
-└── Screenshots/
+└── README.md
 ```
 
 ---
