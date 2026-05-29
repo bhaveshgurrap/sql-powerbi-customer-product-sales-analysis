@@ -209,7 +209,7 @@ The Power BI dashboard provides interactive business insights including:
 
 ## 📌 Customer Analysis Dashboard
 
-[View Attached File](./Customer-Behaviour-Analysis-Dashboard.png)
+![View Attached File](./Customer-Behaviour-Analysis-Dashboard.png)
 
 This dashboard highlights:
 
@@ -221,7 +221,7 @@ This dashboard highlights:
 
 ## 📌 Product Analysis Dashboard
 
-[View Attached File](./Product-Performance-Analysis-Dashboard.png)
+![View Attached File](./Product-Performance-Analysis-Dashboard.png)
 This dashboard highlights:
 
 * Product Performance
